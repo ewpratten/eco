@@ -34,7 +34,10 @@ errors = [
         "At-least-once delivery has failed to deliver the error message at least once",
         "No overflow detected. Please use larger numbers",
         "Maximum line length of 1 exceeded.",
-        "Variable name too descriptive"
+        "Variable name too descriptive",
+        "Too many spaces, You shall use tabs.",
+        "Too many tabs, You shall use spaces.",
+        "404, File not found."
         ]
 
 random_line = randint(1, file_len(sys.argv[1]))
