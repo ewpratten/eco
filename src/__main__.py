@@ -37,7 +37,10 @@ errors = [
         "Variable name too descriptive",
         "Too many spaces, You shall use tabs.",
         "Too many tabs, You shall use spaces.",
-        "404, File not found."
+        "404, File not found.",
+        "Not even the compiler understands this mess.",
+        "This code is too optimized. Please add delays.",
+        "Ţ̷̨̢̤͉̤̫̪͔̏́̓i̷̞̦͗s̷̺̳̗̐͂ ơ̵̳ḋ̴̛̠͇͒ẻ̶̪̲̏͑̚̕ ṻ̵̘́͐̄͑͊̉̌ ṳ̴͖̹̏́ņ̷̢̥̜̯̯͖̩̘̾́̍̅̊̽̓̕͠h̶̫͛̐̂͂͐͆̾͝ǫ̸̭̗̝̘͉̊̃̀̃͑y̴̩̙͗"
         ]
 
 random_line = randint(1, file_len(sys.argv[1]))
