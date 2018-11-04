@@ -40,7 +40,11 @@ errors = [
         "404, File not found.",
         "Not even the compiler understands this mess.",
         "This code is too optimized. Please add delays.",
-        "Ţ̷̨̢̤͉̤̫̪͔̏́̓i̷̞̦͗s̷̺̳̗̐͂ ơ̵̳ḋ̴̛̠͇͒ẻ̶̪̲̏͑̚̕ ṻ̵̘́͐̄͑͊̉̌ ṳ̴͖̹̏́ņ̷̢̥̜̯̯͖̩̘̾́̍̅̊̽̓̕͠h̶̫͛̐̂͂͐͆̾͝ǫ̸̭̗̝̘͉̊̃̀̃͑y̴̩̙͗"
+        "Ţ̷̨̢̤͉̤̫̪͔̏́̓i̷̞̦͗s̷̺̳̗̐͂ ơ̵̳ḋ̴̛̠͇͒ẻ̶̪̲̏͑̚̕ ṻ̵̘́͐̄͑͊̉̌ ṳ̴͖̹̏́ņ̷̢̥̜̯̯͖̩̘̾́̍̅̊̽̓̕͠h̶̫͛̐̂͂͐͆̾͝ǫ̸̭̗̝̘͉̊̃̀̃͑y̴̩̙͗",
+        "YOU DIDNT ADD BLOCKCHAIN TO YOUR PROJECT ???????????",
+        "I dont see Neural network in there. GO ADD IT.",
+        "Nope. Im not gonna compile that.",
+        "Im too smart of an compiler to compile that code."
         ]
 
 random_line = randint(1, file_len(sys.argv[1]))
